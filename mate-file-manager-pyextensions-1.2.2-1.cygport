@@ -1,0 +1,2 @@
+GIT_URI="git://github.com/cygwinports/mate-file-manager-pyextensions.git"
+inherit distutils git
