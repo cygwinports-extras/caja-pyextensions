@@ -1,0 +1,12 @@
+GIT_URI="git://github.com/cygwinports/mate-file-manager-pyextensions.git"
+inherit distutils git
+
+NAME="mate-file-manager-pyextensions"
+VERSION=1.2.2
+RELEASE=2
+CATEGORY="MATE"
+SUMMARY="Python extension manager for Caja (mate-file-manager)"
+DESCRIPTION="A graphical handler, written in Python and PyGTK, of the
+Caja file manager Python extensions."
+
+DEPS_PATH="/usr/lib/caja-python"

@@ -1,5 +1,0 @@
-category: Gnome
-requires: mate-conf mate-file-manager-python python python-gobject python-gtk2.0 python-mateconf
-sdesc: "Python extension manager for Caja (mate-file-manager)"
-ldesc: "A graphical handler, written in Python and PyGTK, of the 
-Caja file manager Python extensions."
